@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Loading...
+🔭 I’m currently working on Dow.
+🌱 I’m currently learning software development
